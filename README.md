@@ -19,4 +19,4 @@ Richell Botson v2.0: Now smarter, sassier, and GPT-free! Get ready for:
 - **Predefined Knowledge Base**: 📘 Reliable responses stored locally for lightning-fast replies.
 - **Integration Capability**: 🔄 Supports automated learning loops to evolve with your needs.
 
-🌟 Experience the upgraded flexibility, reliability, and sassiness of Richell Botson v2.0. Whether you need a chatbot for serious business or playful banter, it's your go-to bot for all things witty and wise!
+🌟 Feel free to upgrade this setup because I haven't done anything more. Whether you need a chatbot for serious business or playful banter, it's your go-to bot for all things witty and wise!
